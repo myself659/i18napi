@@ -1,0 +1,29 @@
+[{
+        "id": "d_days",
+        "translation": "{{.Count}} 天"
+    },
+    {
+        "id": "h_hours",
+        "translation": "{{.Count}} 时"
+    },
+    {
+        "id": "m_minutes",
+        "translation": "{{.Count}} 分"
+    },
+    {
+        "id": "s_seconds",
+        "translation": "{{.Count}} 秒"
+    },
+    {
+        "id": "d_h_m_s",
+        "translation": "{{.Days}} {{.Hours}} {{.Minutes}} {{.Seconds}}"
+    },
+    {
+        "id": "new_year",
+        "translation": "新年快乐"
+    },
+    {
+        "id": "person_greeting",
+        "translation": "你好 {{.Person}}"
+    }
+]

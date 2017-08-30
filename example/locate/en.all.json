@@ -1,0 +1,42 @@
+[{
+        "id": "d_days",
+        "translation": {
+            "one": "{{.Count}} day",
+            "other": "{{.Count}} days"
+        }
+    },
+    {
+        "id": "h_hours",
+        "translation": {
+            "one": "{{.Count}} hour",
+            "other": "{{.Count}} hours"
+        }
+    },
+    {
+        "id": "m_minutes",
+        "translation": {
+            "one": "{{.Count}} minute",
+            "other": "{{.Count}} minutes"
+        }
+    },
+    {
+        "id": "s_seconds",
+        "translation": {
+            "one": "{{.Count}} second",
+            "other": "{{.Count}} seconds"
+        }
+    },
+    {
+        "id": "d_h_m_s",
+        "translation": "{{.Days}} {{.Hours}} {{.Minutes}} {{.Seconds}}"
+    },
+    {
+        "id": "person_greeting",
+        "translation": "Hello {{.Person}}"
+    },
+    {
+        "id": "new_year",
+        "translation": "Happy New Year"
+    }
+
+]
